@@ -1,4 +1,9 @@
 NUGET
   remote: https://www.nuget.org/api/v2
   specs:
+    czmq_vc120 (3.0.1.0)
+      libzmq_vc120 (>= 4.2.0.0)
     fszmq (4.0.8)
+    libsodium_vc120 (1.0.0.0)
+    libzmq_vc120 (4.2.0.0)
+      libsodium_vc120 (>= 0.5.0.0)
